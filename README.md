@@ -33,7 +33,7 @@ Provides a high-level overview of loan performance:
 - Loan status (Current, Charged Off, Fully Paid)  
 - Funded vs received amount comparison  
 
-![Summary Dashboard](Dashboard_Images/Banking_Summary.png)
+![Banking Summary Dashboard](Dashboard_Images/Banking_Summary.PNG)
 
 ---
 
@@ -45,7 +45,7 @@ Displays overall trends and distribution:
 - Purpose-wise loan distribution  
 - Home ownership impact on loans  
 
-![Overview Dashboard](Dashboard_Images/Banking_Overview.png)
+![Banking Overview Dashboard](Dashboard_Images/Banking_Overview.PNG)
 
 ---
 
@@ -55,7 +55,7 @@ Provides granular loan-level details:
 - Interest rate, installment & received amount  
 - Dynamic filters by state, grade, and purpose  
 
-![Detail Dashboard](Dashboard_Images/Banking_Detail.png)
+![Banking Detail Dashboard](Dashboard_Images/Banking_Detail.PNG)
 
 ---
 
