@@ -55,7 +55,7 @@ Provides granular loan-level details:
 - Interest rate, installment & received amount  
 - Dynamic filters by state, grade, and purpose  
 
-![Banking Detail Dashboard](Dashboard_Images/Banking_Detail.PNG)
+![Banking Detail Dashboard](Dashboard_Images/Banking_detail.PNG)
 
 ---
 
